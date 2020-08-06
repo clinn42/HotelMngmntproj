@@ -9,9 +9,10 @@ Program can:
 * View Occupied and Unoccupied rooms
 
 Get template database:
-[SQL file](temp_database/rooms2.sql)
+[SQL file](temp_database)
 
 Executable file (JAR):
+<a href="out\artifacts\HotelManagemant_jar\HotelManagemant.jar" download>Download (check requirements)</a>
 
 Requirements:
 * Java 8
