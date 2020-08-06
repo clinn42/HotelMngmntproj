@@ -1,7 +1,8 @@
 # HotelMngmntproj
 
-A simple Java project with a GUI and MySQL connectivty. The Database is structured around Room No. using SELECT and UPDATE queries.
+A simple Hotel Management System Java project with a GUI and MySQL connectivty. The Database is structured around Room No. using SELECT and UPDATE queries.
 Meant to be used by Hotel Staff.
+
 Program can:
 * Book Room
 * Make a reservation
