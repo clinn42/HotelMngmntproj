@@ -15,6 +15,6 @@ Executable file (JAR):
 [Download Executable](out/artifacts/HotelManagemant_jar/)
 
 Requirements:
-* Java 8
+* [Java 8](https://openjdk.java.net/install/)
 * JavaFX
-* XAMPP or MySQL database
+* [XAMPP or MySQL database](https://www.apachefriends.org/download.html)
