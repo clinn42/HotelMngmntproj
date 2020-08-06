@@ -9,6 +9,7 @@ Program can:
 * View Occupied and Unoccupied rooms
 
 Get template database:
+[SQL file](temp_database/rooms2.sql)
 
 Executable file (JAR):
 
