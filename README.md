@@ -12,7 +12,7 @@ Get template database:
 [SQL file](temp_database)
 
 Executable file (JAR):
-[Download Executable](out\artifacts\HotelManagemant_jar)
+[Download Executable](out/artifacts/HotelManagemant_jar/)
 
 Requirements:
 * Java 8
